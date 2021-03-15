@@ -21,9 +21,12 @@ trained for 100 epochs, but didn't result in a lower RMSE than our original mode
 Considering the RMSE value we achieve with the neural network with the range of the target variable M in mind,
 the model is able to accurately predict the invariant mass of the electrons to a large extent.
 
+Graphical representation of data pipeline and model architecture
 ![model-architecture](https://user-images.githubusercontent.com/37934117/111112078-f085e600-8535-11eb-90e3-2947bb648e88.png)
 
+Graph of model MSE over epochs
 ![model-mse](https://user-images.githubusercontent.com/37934117/111112122-01365c00-8536-11eb-9404-2ee281e700e8.png)
 
+Graph of model loss over epochs
 ![model-loss](https://user-images.githubusercontent.com/37934117/111112144-085d6a00-8536-11eb-8a50-90d689a577bf.png)
 
